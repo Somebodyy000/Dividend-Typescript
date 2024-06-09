@@ -1,0 +1,2 @@
+# Dividend-Typescript
+Dividends Calculator
